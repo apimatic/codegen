@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="SDK-Standard">	
+	<!--https://www.php-fig.org/psr/psr-12/-->
+    <rule ref="PSR12"/>
+    <rule ref="Generic.Arrays.DisallowLongArraySyntax" />
+</ruleset>

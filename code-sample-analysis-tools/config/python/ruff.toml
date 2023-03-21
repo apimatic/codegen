@@ -1,0 +1,4 @@
+select = ["ALL"]
+
+# Complete rules list present at https://beta.ruff.rs/docs/rules/
+ignore = ["D103", "D203", "D211", "D212", "D213", "E501", "ANN201", "A001", "ANN001", "T201", "SIM115", "D100", "S106", "INP001", "S105", "COM819", "COM812", "ARG001", "Q000", "I001"]

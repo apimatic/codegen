@@ -1,0 +1,53 @@
+#https://rubystyle.guide/
+
+AllCops:
+  Include:
+    - '**/examples/*'
+
+Style/MixinUsage:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/WordArray:
+  Enabled: false
+
+Style/EmptyElse:
+  Enabled: false
+
+Style/NumericLiterals:
+  Enabled: false
+
+Style/HashSyntax:
+  Enabled: false
+
+Layout/EndOfLine:
+  Enabled: false
+
+Layout/LineLength:
+  Enabled: false
+
+Metrics/ClassLength:
+  Enabled: false
+
+Metrics/MethodLength:
+  Enabled: false
+
+Metrics/BlockLength:
+  Enabled: false  
+
+Metrics/ParameterLists:
+  Enabled: false
+
+Style/ColonMethodCall:
+  Enabled: false
+
+Naming/VariableNumber:
+  Enabled: false
+
+Lint/UnderscorePrefixedVariableName:
+  Enabled: false
+
+Style/SymbolLiteral:
+  Enabled: false
